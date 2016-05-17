@@ -1,0 +1,16 @@
+html, body
+{
+}
+
+#chart
+{
+    width:100%;
+    border:1px solid;
+}
+
+#csv
+{
+    width: 560;
+    height: 86;
+    overflow:hidden;
+}
