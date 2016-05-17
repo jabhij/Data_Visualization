@@ -1,0 +1,13 @@
+ </script>
+    <script id="csv" type="text/csv">Name,Salary(PM)
+    A, 21k
+    B, 6k
+    C, 17k
+    D, 12k
+    E, 15k
+    F, 18k
+    G, 14k
+    H, 19k
+    I, 11k
+    </script>
+    <script>  renderChart();</script>
