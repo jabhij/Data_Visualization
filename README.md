@@ -9,7 +9,8 @@ Just do it.
 
 ### Reach me- 
 
-For any query, ping me on Twitter- @jabhij
-Web- www.letustweak.com
+For any query, ping me on 
+- Twitter- @jabhij
+- Web- www.letustweak.com
 
 I hope, it helps!! :)
