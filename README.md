@@ -4,10 +4,10 @@
 - Data Format: JSON, CSV
 - Alternatives: NvD3.JS
 
-### Reach me- 
+### Catch me -
 
 For any query, ping me on 
-- Twitter- @jabhij
-- Web- www.letustweak.com
+- Twitter: [@jabhij] (https://twitter.com/jabhij)
+- Web: [LetUsTweak] (http://letustweak.com)
 
-I hope, it helps!! :)
+Hope, it helps!!  ヅ
