@@ -1,8 +1,8 @@
 ## Data Visualization
 
-- Language: D3.JS
-- Data Format: JSON, CSV
-- Alternatives: NvD3.JS
+- Language: `D3.JS`
+- Data Format: `JSON, CSV`
+- Alternatives: `NvD3.JS`
 
 ### Catch me -
 
